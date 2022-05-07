@@ -157,7 +157,7 @@ public class MainActivity extends AppCompatActivity implements IAemCardScanner, 
             } else if (e.getMessage().contains("Device or resource busy")) {
                 Toast.makeText(MainActivity.this, "the device is already connected", Toast.LENGTH_SHORT).show();
             } else {
-                Toast.makeText(MainActivity.this, "Printer not connect", Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, "Printer not connect.....", Toast.LENGTH_SHORT).show();
             }
         }
         return true;
