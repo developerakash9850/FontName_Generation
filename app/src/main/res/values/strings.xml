@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BluPrints FontUpdate</string>
+
+    <string-array name="Printer_List">
+        <item id="0">Normal</item>
+        <item id="1">Tahoma</item>
+        <item id="2">Calibri</item>
+        <item id="3">Verdhana</item>
+       <!-- <item id="3">VRIDDHI</item>
+        <item id="4">SPICE MONEY</item>
+        <item id="5">SAMPANN</item>
+        <item id="6">PRAGATI</item>-->
+    </string-array>
+
+</resources>
